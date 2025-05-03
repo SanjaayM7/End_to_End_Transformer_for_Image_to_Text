@@ -26,7 +26,7 @@ This repository contains a **Multimodal AI Application** built with **Gradio**, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone [https://github.com/your-username/your-repository-name.git](https://github.com/SanjaayM7/Multimodal-AI-Playground)
 cd your-repository-name
 ```
 
