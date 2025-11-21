@@ -1,6 +1,6 @@
 # End to End Transformer for Image to Text
 
-This repository contains a **Multimodal AI Application** built with **Gradio**, **Hugging Face Transformers**, and **Cohere**. It provides an intuitive interface for exploring a variety of AI capabilities including natural language generation, image synthesis, audio transcription, and computer vision tasks.
+This repository contains a **Multimodal AI Application** built with **Gradio**. It provides an intuitive interface for exploring a variety of AI capabilities including natural language generation, image synthesis, audio transcription, and computer vision tasks.
 
 ## ✨ Features
 
